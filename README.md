@@ -1,9 +1,9 @@
-# Gatsby Simplefolio ⚡️ [![GitHub](https://img.shields.io/github/license/cobidev/gatsby-simplefolio?color=blue)](https://github.com/cobidev/gatsby-simplefolio/blob/master/LICENSE.md) ![GitHub stars](https://img.shields.io/github/stars/cobidev/gatsby-simplefolio) ![GitHub forks](https://img.shields.io/github/forks/cobidev/gatsby-simplefolio)
+# Gatsby Mashimi ⚡️ [![GitHub](https://img.shields.io/github/license/cobidev/gatsby-Mashimi?color=blue)](https://github.com/cobidev/gatsby-Mashimi/blob/master/LICENSE.md) ![GitHub stars](https://img.shields.io/github/stars/cobidev/gatsby-Mashimi) ![GitHub forks](https://img.shields.io/github/forks/cobidev/gatsby-Mashimi)
 
 ## A clean, beautiful and responsive portfolio template for Developers
 
 <h2 align="center">
-  <img src="https://github.com/cobidev/gatsby-simplefolio/blob/master/examples/example.gif" alt="Gatsby Simplefolio" width="600px" />
+  <img src="https://github.com/cobidev/gatsby-Mashimi/blob/master/examples/example.gif" alt="Gatsby Mashimi" width="600px" />
   <br>
 </h2>
 
@@ -18,7 +18,7 @@
 ⚡️ Easy site customization\
 ⚡️ Well organized documentation
 
-To view a demo example, **[click here](https://gatsby-simplefolio.netlify.com/)**\
+To view a demo example, **[click here](https://gatsby-Mashimi.netlify.com/)**\
 To view a live example, **[click here](https://cobidev.com/)**
 
 ---
@@ -49,14 +49,14 @@ yarn@v1.21.1 or higher
 
 ## How To Use 🔧
 
-From your command line, first clone Simplefolio:
+From your command line, first clone Mashimi:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/cobidev/gatsby-simplefolio
+$ git clone https://github.com/cobidev/gatsby-Mashimi
 
 # Go into the repository
-$ cd gatsby-simplefolio
+$ cd gatsby-Mashimi
 
 # Remove current origin repository
 $ git remote remove origin
@@ -95,7 +95,7 @@ $ sudo npm install --unsafe-perm=true --allow-root
 Once your server has started, go to this url `http://localhost:8000/` and you will see the website running on a Development Server:
 
 <h2 align="center">
-  <img src="https://github.com/cobidev/gatsby-simplefolio/blob/master/examples/example.png" alt="Gatsby Simplefolio" width="100%">
+  <img src="https://github.com/cobidev/gatsby-Mashimi/blob/master/examples/example.png" alt="Gatsby Mashimi" width="100%">
 </h2>
 
 ---
@@ -146,7 +146,7 @@ export const projectsData = [
     info: '',
     info2: '',
     url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    repo: 'https://github.com/cobidev/react-Mashimi', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
@@ -155,7 +155,7 @@ export const projectsData = [
     info: '',
     info2: '',
     url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    repo: 'https://github.com/cobidev/react-Mashimi', // if no repo, the button will not show up
   },
   ...
 ];
@@ -238,8 +238,8 @@ I highly recommend to use [Netlify](https://netlify.com) to achieve this on the 
 
 ## Others versions 👥
 
-[Simplefolio](https://github.com/cobidev/simplefolio) by [Jacobo Martinez](https://github.com/cobidev)\
-[Ember.js Simplefolio](https://github.com/sernadesigns/simplefolio-ember) by [Michael Serna](https://github.com/sernadesigns)
+[Mashimi](https://github.com/cobidev/Mashimi) by [Jacobo Martinez](https://github.com/cobidev)\
+[Ember.js Mashimi](https://github.com/sernadesigns/Mashimi-ember) by [Michael Serna](https://github.com/sernadesigns)
 
 ## Technologies used 🛠️
 
@@ -255,7 +255,7 @@ I highly recommend to use [Netlify](https://netlify.com) to achieve this on the 
 
 ## Status
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/2365af6f-820a-4fb8-83e6-69a66f686dfe/deploy-status)](https://app.netlify.com/sites/gatsby-simplefolio/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2365af6f-820a-4fb8-83e6-69a66f686dfe/deploy-status)](https://app.netlify.com/sites/gatsby-Mashimi/deploys)
 
 ## License 📄
 
