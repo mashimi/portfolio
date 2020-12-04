@@ -18,7 +18,7 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'me.jpg',
-  paragraphOne: 'I offer a full range of Web Design Services. Blogs, forums, online stores, multimedia, search engine optimization services and more. I specialize in Decentralized website design services for small to medium businesses',
+  paragraphOne: 'Blockchain Developer from Tanzania to Berlin, Develop a full range of Web Design Services. Crypto bots, NFTs, Node setup, Smart contracts, Data services and more.  Specialize in Decentralized Web Applications (DAPP, WEB3.0, IPFS, DLT)  design services for small to medium businesses',
   paragraphTwo: '',
   paragraphThree: '',
   resume: 'https://app.luminpdf.com/viewer/5fc8f6941482ab001af65481', // if no resume, the button will not show up
@@ -30,17 +30,17 @@ export const projectsData = [
     id: nanoid(),
     img: 'project.jpg',
     title: 'DeFi Project',
-    info: 'This is DeFi project is run on Rinkeby Test net',
-    info2: '',
+    info: 'Decentralized Finance (DeFi)? Yield farming is a way to make more crypto with your crypto. It involves you lending your funds to others through the magic of computer programs called smart contracts. In return for your service, you earn fees in the form of crypto.',
+    info2: 'Ethereum Dapp on Rinkeby test net ASK FOR SOURCE CODE',
     url: 'https://www.greedygorillaz.com/',
-    repo: 'https://github.com/mashimi/mashimiswap', // if no repo, the button will not show up
+    repo: '', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
     img: 'dappvideo.png',
     title: 'Dapp Video',
-    info: 'Decentralized Video Platform on the Etherium blockchain test net',
-    info2: '',
+    info: 'Decentralized Video censorship-resistant  Platform ',
+    info2: 'Ethereum blockchain and IPFS Technology try out on Rinkeby Test net',
     url: 'https://www.dappvideo.com/',
     repo: 'https://github.com/mashimi/DecentralizedVideo', // if no repo, the button will not show up
   },
@@ -48,19 +48,19 @@ export const projectsData = [
     id: nanoid(),
     img: 'supplychain.png',
     title: ' Supply chain project',
-    info: 'Blockchain supply chain project',
-    info2: '',
+    info: 'Blockchain can enable more transparent and accurate end-to-end tracking in the supply chain: Organizations can digitize physical assets and create a decentralized immutable record of all transactions, making it possible to track assets from production to delivery or use by end user.',
+    info2: 'IS NOT LIVE FOR NOW',
     url: '',
     repo: 'https://github.com/mashimi/supplychain', // if no repo, the button will not show up
   },
    {
     id: nanoid(),
     img: 'mydex.png',
-    title: 'Decentralize Exchange',
-    info: 'Decentralize Exchange project New Project still develop',
-    info2: '',
+    title: 'Decentralized Exchange (DEX)',
+    info: 'A decentralized exchange (DEX) is a cryptocurrency exchange which operates in a decentralized way, i.e., without a central authority. Decentralized exchanges allow peer-to-peer trading of cryptocurrencies.',
+    info2: 'ASK FOR SOURCE CODE',
     url: '',
-    repo: 'https://github.com/mashimi/supplychain', // if no repo, the button will not show up
+    repo: '', // if no repo, the button will not show up
   },
 ];
 
