@@ -1,4 +1,4 @@
-# Gatsby Mashimi ⚡️ [![GitHub](https://img.shields.io/github/license/cobidev/gatsby-Mashimi?color=blue)](https://github.com/cobidev/gatsby-Mashimi/blob/master/LICENSE.md) ![GitHub stars](https://img.shields.io/github/stars/cobidev/gatsby-Mashimi) ![GitHub forks](https://img.shields.io/github/forks/cobidev/gatsby-Mashimi)
+#  Mashimi ⚡️ [![GitHub](https://img.shields.io/github/license/cobidev/gatsby-Mashimi?color=blue)](https://github.com/cobidev/gatsby-Mashimi/blob/master/LICENSE.md) ![GitHub stars](https://img.shields.io/github/stars/cobidev/gatsby-Mashimi) ![GitHub forks](https://img.shields.io/github/forks/cobidev/gatsby-Mashimi)
 
 ## A clean, beautiful and responsive portfolio template for Developers
 
